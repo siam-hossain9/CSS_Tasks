@@ -21,6 +21,10 @@ th, td {
   padding: 8px;
   text-align: left;
 }
+hr{
+    border: 2px solid rgb(0, 0, 0);
+
+}
 
 #HOBBIES {
     text-align: center;
