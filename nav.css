@@ -1,0 +1,31 @@
+.navbar {
+    background-color: black;
+    padding: 0;
+    margin: 0;
+    display: block;
+    width: 100%;
+}
+
+.navbar a {
+    display: inline-block;
+    padding: 15px 20px;
+    margin: 0;
+    text-decoration: none;
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 18px;
+
+}
+
+.navbar a:hover {
+    background-color: greenyellow
+   
+}
+body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
